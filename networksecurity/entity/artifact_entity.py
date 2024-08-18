@@ -29,3 +29,8 @@ class ModelEvaluationArtifact:
 @dataclass
 class ModelPusherArtifact:
     pass
+
+
+@dataclass
+class ClassificationMetricArtifact:
+    pass
